@@ -215,4 +215,4 @@ File Commander is offered as a full free version, including all features and upd
 Take control of your file management today! Download File Commander and experience the difference.
 
 ---
-**Last updated:** 2026-10-25 14:11:11 UTC
+**Last updated:** 2026-10-25 18:16:31 UTC
